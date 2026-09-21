@@ -43,7 +43,7 @@ strain relief.
 ```
 firmware/nfc_tag_reader/   Arduino sketch (ESP32 + PN532)
 backend/                   Tag UID -> Spotify play service (not yet built)
-docs/                      Project context, tag map example
+docs/                      Project context, enclosure design, BOM + build plan
 ```
 
 ## Getting started (firmware)
