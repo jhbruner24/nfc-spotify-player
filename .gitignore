@@ -1,0 +1,22 @@
+# Secrets — never commit these
+firmware/**/secrets.h
+backend/.env
+backend/.env.*
+!backend/.env.example
+*.pem
+*.key
+
+# Backend
+backend/node_modules/
+backend/dist/
+backend/__pycache__/
+backend/.venv/
+
+# PlatformIO (if we switch from Arduino IDE)
+.pio/
+.vscode/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp

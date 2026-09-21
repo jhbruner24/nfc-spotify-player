@@ -1,0 +1,11 @@
+{
+  "_comment": "Example UID -> Spotify URI map. Copy to tags.json once real UIDs are recorded.",
+  "04A12B3C4D5E80": {
+    "label": "Example Album",
+    "uri": "spotify:album:4aawyAB9vmqN3uQ7FjRGTy"
+  },
+  "04F1E2D3C4B5A6": {
+    "label": "Example Playlist",
+    "uri": "spotify:playlist:37i9dQZF1DXcBWIGoYBM5M"
+  }
+}
